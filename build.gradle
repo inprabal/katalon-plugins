@@ -1,20 +1,89 @@
 plugins {
   id 'java'
-  id "com.katalon.gradle-plugin" version "0.0.7"
+  id 'groovy'
+  id 'com.github.johnrengelman.shadow' version '7.1.2'
+  id "com.katalon.gradle-plugin" version "0.1.1"
 }
 
 repositories {
+  jcenter()
   mavenCentral()
 }
 
 dependencies {
-  // sample dependencies
-  // rest-assured
-  // compile 'io.rest-assured:rest-assured:3.2.0'
-  // JsonPath
-  // compile 'io.rest-assured:json-path:3.2.0'
-  // XmlPath
-  // compile 'io.rest-assured:json-path:3.2.0'
-  // JSON Schema Validation
-  // compile 'io.rest-assured:json-schema-validator:3.2.0'
+  implementation group: 'javax.activation', name: 'activation', version: '1.1.1'
+  implementation group: 'org.apache.commons', name: 'commons-compress', version: '1.21'
+  implementation group: 'org.apache.commons', name: 'commons-csv', version: '1.10.0'
+  implementation group: 'com.conversantmedia', name: 'disruptor', version: '1.2.21'
+  implementation group: 'com.lmax', name: 'disruptor', version: '3.3.6'
+  implementation group: 'jaxen', name: 'jaxen', version: '1.2.0'
+  implementation group: 'com.sun.xml.bind', name: 'jaxb-impl', version: '2.3.8'
+  
+  implementation (('org.glassfish.jaxb:jaxb-runtime:3.0.2'), {
+		exclude group: 'jakarta.xml.bind', module: 'jakarta.xml.bind-api'
+		exclude group: 'com.sun.activation', module: 'jakarta.activation'
+		exclude group: 'org.glassfish.jaxb', module: 'txw2'
+		exclude group: 'com.sun.istack', module: 'istack-common-runtime'
+	})
+  implementation group: 'jakarta.xml.bind', name: 'jakarta.xml.bind-api', version: '2.3.3'
+  implementation group: 'javax.jms', name: 'javax.jms-api', version: '2.0.1'
+  implementation group: 'javax.mail', name: 'mail', version: '1.4.7'
+  
+  
+  implementation (('com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.14.2'), {
+		exclude group: 'com.fasterxml.jackson.core', module: 'jackson-core'
+		exclude group: 'com.fasterxml.jackson.core', module: 'jackson-annotations'
+		exclude group: 'com.codehaus.woodstox', module: 'txw2'
+		exclude group: 'org.codehaus.woodstox', module: 'stax2-api'
+		exclude group: 'org.fasterxml.woodstox', module: 'woodstox-core'
+		exclude group: 'org.fasterxml.jackson', module: 'jackson-bom'
+		exclude group: 'org.fasterxml.jackson.core', module: 'jackson-databind'
+	})
+	
+  implementation (('com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.14.2'), {
+		exclude group: 'org.yaml', module: 'snakeyaml'
+		exclude group: 'org.fasterxml.woodstox', module: 'woodstox-core'
+		exclude group: 'org.fasterxml.jackson', module: 'jackson-bom'
+		exclude group: 'org.fasterxml.jackson.core', module: 'jackson-databind'
+	})
+	
+  implementation (('org.apache.kafka:kafka-clients:3.3.1'), {
+		exclude group: 'com.github.luben', module: 'zstd-jni'
+		exclude group: 'org.lz4', module: 'lz4-java'
+		exclude group: 'org.xerial.snappy', module: 'snappy-java'
+		exclude group: 'org.slf4j', module: 'slf4j-api'
+	})
+	
+  implementation (('jakarta.mail:jakarta.mail-api:2.1.0'), {
+		exclude group: 'jakarta.activation', module: 'jakarta.activation-api'
+	})
+ 
+  implementation (('org.zeromq:jeromq:0.5.3'), {
+		exclude group: 'eu.neilalexander', module: 'jnacl'
+	})
+	
+  implementation (('org.apache.tika:tika-core:2.3.0'), {
+		exclude group: 'commons-io', module: 'commons-io'
+		exclude group: 'org.slf4j', module: 'slf4j-api'
+	})
+	
+  implementation group: 'org.assertj', name: 'assertj-core', version: '3.24.2'
+}
+
+sourceSets {
+  main {
+    groovy {
+      srcDirs = ['Keywords', 'Include/scripts/groovy']
+      srcDir 'Libs'
+    }
+  }
+}
+
+shadowJar {
+  exclude 'Temp*.class'
+}
+
+katalon {
+  dependencyPrefix = "com.katalon"
+  minimize = false
 }

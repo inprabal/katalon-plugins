@@ -1,0 +1,33 @@
+plugins {
+  id 'java'
+  id 'groovy'
+  id 'com.github.johnrengelman.shadow' version '7.1.2'
+  id "com.katalon.gradle-plugin" version "0.1.1"
+}
+
+repositories {
+  jcenter()
+  mavenCentral()
+}
+
+dependencies {  
+  implementation group: 'org.assertj', name: 'assertj-core', version: '3.24.2'
+}
+
+sourceSets {
+  main {
+    groovy {
+      srcDirs = ['Keywords', 'Include/scripts/groovy']
+      srcDir 'Libs'
+    }
+  }
+}
+
+shadowJar {
+  exclude 'Temp*.class'
+}
+
+katalon {
+  dependencyPrefix = "com.katalon"
+  minimize = false
+}
