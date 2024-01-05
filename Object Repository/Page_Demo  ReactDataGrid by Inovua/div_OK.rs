@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OK</name>
+   <tag></tag>
+   <elementGuidId>7ceda8d5-8f65-47a7-aed5-c36fbd5f88ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.inovua-react-toolkit-calendar__footer-button-ok.inovua-react-toolkit-calendar__footer-button.inovua-react-toolkit-button.inovua-react-toolkit-button--theme-default-dark.inovua-react-toolkit-button--over.inovua-react-toolkit-button--ltr.inovua-react-toolkit-button--ellipsis.inovua-react-toolkit-button--align-center.inovua-react-toolkit-button--vertical-align-middle.inovua-react-toolkit-button--icon-first > div.inovua-react-toolkit-button__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div[5]/div/div/div/div/div/div/div[6]/div/div[5]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f61e081-83b9-42bc-b01a-56227c5d3141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inovua-react-toolkit-button__text</value>
+      <webElementGuid>9fa24e23-a277-4ccb-a1b5-98fca118ea8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>8ed219a1-11ea-4f42-b245-09a7ade39eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--nunito InovuaReactDataGrid--theme-default-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__portal-host&quot;]/div[@class=&quot;inovua-react-toolkit-date-input__overlay inovua-react-toolkit-date-input__overlay--visible inovua-react-toolkit-date-input__overlay--position-fixed&quot;]/div[@class=&quot;inovua-react-toolkit-date-input__overlay__content&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-date-input__picker inovua-react-toolkit-calendar__calendar inovua-react-toolkit-calendar__calendar--theme-default-dark inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__month-view inovua-react-toolkit-calendar__month-view--theme-default-dark inovua-react-toolkit-calendar__month-view-relative inovua-react-toolkit-calendar__month-view inovua-react-toolkit-flex-v3--align-items-stretch inovua-react-toolkit-flex-v3--column inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-flex-v3--align-items-stretch inovua-react-toolkit-flex-v3--column inovua-react-toolkit-flex-v3--display-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__nav-bar inovua-react-toolkit-calendar__nav-bar--theme-default-dark inovua-react-toolkit-calendar__nav-bar--with-month-decade-view inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-calendar__nav-bar-month-decade-view-modal inovua-react-toolkit-calendar__nav-bar-month-decade-view-show-animation&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__nav-bar-month-decade-view inovua-react-toolkit-calendar__nav-bar-month-decade-view-month inovua-react-toolkit-calendar__month-decade-view inovua-react-toolkit-calendar__month-decade-view--theme-default-dark inovua-react-toolkit-flex-v3--align-items-stretch inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--column inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__footer inovua-react-toolkit-calendar__footer--theme-default-dark inovua-react-toolkit-calendar__footer--button-cancel inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--justify-content-center inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/button[@class=&quot;inovua-react-toolkit-calendar__footer-button-ok inovua-react-toolkit-calendar__footer-button inovua-react-toolkit-button inovua-react-toolkit-button--theme-default-dark inovua-react-toolkit-button--over inovua-react-toolkit-button--ltr inovua-react-toolkit-button--ellipsis inovua-react-toolkit-button--align-center inovua-react-toolkit-button--vertical-align-middle inovua-react-toolkit-button--icon-first&quot;]/div[@class=&quot;inovua-react-toolkit-button__text&quot;]</value>
+      <webElementGuid>ee20d0d1-1dbb-4ce2-9bf6-c9c034bda4e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div[5]/div/div/div/div/div/div/div[6]/div/div[5]/button/div</value>
+      <webElementGuid>62e79c16-1906-4520-acd6-c9a602974e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec'])[1]/following::div[21]</value>
+      <webElementGuid>c5444e55-f163-439f-a1dc-10ae5e63806c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov'])[1]/following::div[22]</value>
+      <webElementGuid>be5d20f7-85c7-43a9-8631-51f3ee03ca54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[1]</value>
+      <webElementGuid>51bc6793-3e5b-4a94-9a47-b137f40b7ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::div[4]</value>
+      <webElementGuid>0680035b-56f3-4dba-b9d8-b1ab2b457080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <webElementGuid>2b3b2eb0-f178-489b-a7c2-d4b0f3276681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>05b66534-894b-4e4b-8ddb-a08dca637e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>212377c1-8f94-48a7-b5cb-6dfdb133693a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

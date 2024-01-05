@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1967</name>
+   <tag></tag>
+   <elementGuidId>17397da3-8201-43fa-b411-888a6353ed6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div[5]/div/div/div/div/div/div/div[6]/div/div[3]/div[2]/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>62df4118-4a0b-47a5-af53-57b455fe236c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inovua-react-toolkit-flex-item inovua-react-toolkit-calendar__decade-view-year inovua-react-toolkit-flex-v3--flex-1</value>
+      <webElementGuid>677f48d8-8fe0-49a5-8563-f9a52e335a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1967</value>
+      <webElementGuid>0e4d2e50-26a7-475f-bea5-2fea997e46f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--nunito InovuaReactDataGrid--theme-default-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__portal-host&quot;]/div[@class=&quot;inovua-react-toolkit-date-input__overlay inovua-react-toolkit-date-input__overlay--visible inovua-react-toolkit-date-input__overlay--position-fixed&quot;]/div[@class=&quot;inovua-react-toolkit-date-input__overlay__content&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-date-input__picker inovua-react-toolkit-calendar__calendar inovua-react-toolkit-calendar__calendar--theme-default-dark inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__month-view inovua-react-toolkit-calendar__month-view--theme-default-dark inovua-react-toolkit-calendar__month-view-relative inovua-react-toolkit-calendar__month-view inovua-react-toolkit-flex-v3--align-items-stretch inovua-react-toolkit-flex-v3--column inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-flex-v3--align-items-stretch inovua-react-toolkit-flex-v3--column inovua-react-toolkit-flex-v3--display-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__nav-bar inovua-react-toolkit-calendar__nav-bar--theme-default-dark inovua-react-toolkit-calendar__nav-bar--with-month-decade-view inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-calendar__nav-bar-month-decade-view-modal inovua-react-toolkit-calendar__nav-bar-month-decade-view-show-animation&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__nav-bar-month-decade-view inovua-react-toolkit-calendar__nav-bar-month-decade-view-month inovua-react-toolkit-calendar__month-decade-view inovua-react-toolkit-calendar__month-decade-view--theme-default-dark inovua-react-toolkit-flex-v3--align-items-stretch inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--column inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__decade-view inovua-react-toolkit-calendar__decade-view--theme-default-dark inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-flex-v3--align-items-stretch inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--column inovua-react-toolkit-flex-v3--flex-1 inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__decade-view-row inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--flex-1 inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex-item inovua-react-toolkit-calendar__decade-view-year inovua-react-toolkit-flex-v3--flex-1&quot;]</value>
+      <webElementGuid>a6c9c96b-a2ed-43a6-afb6-92fccd2c92dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div[5]/div/div/div/div/div/div/div[6]/div/div[3]/div[2]/div[2]/div[3]</value>
+      <webElementGuid>925d3115-9233-4e10-862b-63479b3ef8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec'])[1]/following::div[14]</value>
+      <webElementGuid>9ab3bafb-d739-4a37-87d2-0d5ef33cbecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov'])[1]/following::div[15]</value>
+      <webElementGuid>d32d2873-cd95-4bf9-aba1-56bd2f51ff0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[6]</value>
+      <webElementGuid>30e1672e-f1ba-4543-874e-a19d485acee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[7]</value>
+      <webElementGuid>c900e4e0-0e81-47cf-b388-5020ace29435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1967']/parent::*</value>
+      <webElementGuid>aee1203a-52c2-4eec-9bee-d4222c29bd52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]</value>
+      <webElementGuid>98e1c761-8918-4f1b-9a58-83e5a3f7a332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1967' or . = '1967')]</value>
+      <webElementGuid>0658a270-6eb8-4738-9d2e-2b847da0ce05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

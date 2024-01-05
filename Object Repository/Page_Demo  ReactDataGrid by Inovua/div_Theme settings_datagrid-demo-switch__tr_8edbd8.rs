@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Theme settings_datagrid-demo-switch__tr_8edbd8</name>
+   <tag></tag>
+   <elementGuidId>b6403ca0-8ef5-4bbe-9f9f-7ce5c47f68b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.datagrid-demo-switch__track.datagrid-demo-switch__track--on</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bd0019d9-82bf-47b9-bf74-eb1dc60ac862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datagrid-demo-switch__track datagrid-demo-switch__track--on</value>
+      <webElementGuid>202be7bc-ad1e-4e63-9a61-b77f6bf98688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;datagrid-demo-configurator__wrapper datagrid-demo-configurator--theme-default-dark&quot;]/div[@class=&quot;inovua-react-scroll-container--block inovua-react-scroll-container inovua-react-scroll-container--theme-default-dark&quot;]/div[@class=&quot;inovua-react-scroll-container__wrapper&quot;]/div[@class=&quot;inovua-react-scroll-container__scroller inovua-react-scroll-container__scroller--direction-ltr inovua-react-scroll-container__scroller--avoid-repaint&quot;]/div[@class=&quot;inovua-react-scroll-container__view&quot;]/div[1]/div[1]/div[@class=&quot;datagrid-demo-section__wrapper datagrid-demo-section--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo-section__content&quot;]/div[1]/div[@class=&quot;datagrid-demo-switch datagrid-demo-switch--theme-default-dark datagrid-demo-switch--focused&quot;]/div[@class=&quot;datagrid-demo-switch__track datagrid-demo-switch__track--on&quot;]</value>
+      <webElementGuid>9a34a05e-8501-41c6-aa66-32802c7e0207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>6235f7a1-18f2-4691-b2d9-b032bcbf5844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theme settings'])[1]/following::div[4]</value>
+      <webElementGuid>77901fa7-fc71-4f91-9234-6b9dfd0b345f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::div[14]</value>
+      <webElementGuid>efb9081d-88ff-4746-b238-34dac79734e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dark mode'])[1]/preceding::div[2]</value>
+      <webElementGuid>f409cd01-5976-4365-b520-61c3e0e0fe7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/preceding::div[3]</value>
+      <webElementGuid>a9df7f5f-c23f-4a4c-8b9b-f42c2e6497cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>6c5aaa83-a544-4920-898a-dbce347bedc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

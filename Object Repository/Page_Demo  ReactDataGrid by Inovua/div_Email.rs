@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email</name>
+   <tag></tag>
+   <elementGuidId>6167b5da-4ebc-4bf8-8706-941ce20f29a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.InovuaReactDataGrid__column-header.InovuaReactDataGrid__column-header--unlocked.InovuaReactDataGrid__column-header--direction-ltr.InovuaReactDataGrid__column-header--unlocked.InovuaReactDataGrid__column-header--sortable.InovuaReactDataGrid__column-header--user-select-none.InovuaReactDataGrid__column-header--align-start.InovuaReactDataGrid__column-header--has-group.InovuaReactDataGrid__column-header--resizable.InovuaReactDataGrid__column-header--unlockable > div.InovuaReactDataGrid__column-header__content.InovuaReactDataGrid__box--ellipsis</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div/div/div/div[2]/div/div[4]/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fce3240d-786b-437b-8a0f-4ddefc46ab25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>InovuaReactDataGrid__column-header__content InovuaReactDataGrid__box--ellipsis</value>
+      <webElementGuid>30e5da2f-cb3e-4995-8841-ae00d9b1e1e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>ebdad8a0-580f-4f9e-9a94-e7ba0952d1f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--nunito InovuaReactDataGrid--theme-default-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__body&quot;]/div[@class=&quot;InovuaReactDataGrid__column-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__header-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__header-wrapper InovuaReactDataGrid__header-wrapper--direction-ltr&quot;]/div[@class=&quot;InovuaReactDataGrid__header InovuaReactDataGrid__header--direction-ltr&quot;]/div[@class=&quot;InovuaReactDataGrid__header-group&quot;]/div[@class=&quot;InovuaReactDataGrid__header-group-cells&quot;]/div[@class=&quot;InovuaReactDataGrid__column-header__resize-wrapper InovuaReactDataGrid__column-header__resize-wrapper--has-group InovuaReactDataGrid__column-header__resize-wrapper--show-border-left InovuaReactDataGrid__column-header__resize-wrapper--direction-ltr&quot;]/div[@class=&quot;InovuaReactDataGrid__column-header InovuaReactDataGrid__column-header--unlocked InovuaReactDataGrid__column-header--direction-ltr InovuaReactDataGrid__column-header--unlocked InovuaReactDataGrid__column-header--sortable InovuaReactDataGrid__column-header--user-select-none InovuaReactDataGrid__column-header--align-start InovuaReactDataGrid__column-header--has-group InovuaReactDataGrid__column-header--resizable InovuaReactDataGrid__column-header--unlockable&quot;]/div[@class=&quot;InovuaReactDataGrid__column-header__content InovuaReactDataGrid__box--ellipsis&quot;]</value>
+      <webElementGuid>d72f4875-1844-4286-8d97-d9ba132c05c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div/div/div/div[2]/div/div[4]/div[3]/div/div/div</value>
+      <webElementGuid>f794f301-08f2-4807-8fe0-2ff4c946eae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/div/div</value>
+      <webElementGuid>90df9fd1-5491-40f0-99ed-d9e83f68320b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email' or . = 'Email')]</value>
+      <webElementGuid>74e90fe4-50f5-47a7-906a-e530fdb0dcaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

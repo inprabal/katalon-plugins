@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nunito_inovua-react-toolkit-combo-box___6ea2aa</name>
+   <tag></tag>
+   <elementGuidId>24f1b871-d8c6-4eef-aaa9-87451ee8efb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.datagrid-demo-combo__wrapper.datagrid-demo-combo--theme-amber-dark > div.inovua-react-toolkit-combo-box.inovua-react-toolkit-combo-box--ltr.inovua-react-toolkit-combo-box--shadow.inovua-react-toolkit-combo-box--theme-amber-dark > div.inovua-react-toolkit-combo-box__tools > div.inovua-react-toolkit-combo-box__toggle-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div[2]/div/div/div/div/div/div/div/div[2]/div[3]/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5302f472-aaef-44dc-aa9d-777fd7dec02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inovua-react-toolkit-combo-box__toggle-icon</value>
+      <webElementGuid>dbafa7ff-f44c-4af5-ad8b-231262b605b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-amber-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;datagrid-demo-configurator__wrapper datagrid-demo-configurator--theme-amber-dark&quot;]/div[@class=&quot;inovua-react-scroll-container--block inovua-react-scroll-container inovua-react-scroll-container--theme-amber-dark&quot;]/div[@class=&quot;inovua-react-scroll-container__wrapper&quot;]/div[@class=&quot;inovua-react-scroll-container__scroller inovua-react-scroll-container__scroller--direction-ltr inovua-react-scroll-container__scroller--avoid-repaint&quot;]/div[@class=&quot;inovua-react-scroll-container__view&quot;]/div[1]/div[1]/div[@class=&quot;datagrid-demo-section__wrapper datagrid-demo-section--theme-amber-dark&quot;]/div[@class=&quot;datagrid-demo-section__content&quot;]/div[3]/div[@class=&quot;datagrid-demo-combo__wrapper datagrid-demo-combo--theme-amber-dark&quot;]/div[@class=&quot;inovua-react-toolkit-combo-box inovua-react-toolkit-combo-box--ltr inovua-react-toolkit-combo-box--shadow inovua-react-toolkit-combo-box--theme-amber-dark&quot;]/div[@class=&quot;inovua-react-toolkit-combo-box__tools&quot;]/div[@class=&quot;inovua-react-toolkit-combo-box__toggle-icon&quot;]</value>
+      <webElementGuid>675e9c6a-be39-4e19-a3ec-1346de64c867</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div[2]/div/div/div/div/div/div/div/div[2]/div[3]/div/div[2]/div[2]/div</value>
+      <webElementGuid>d461829e-15b6-461f-b136-0286895f7db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nunito'])[1]/following::div[2]</value>
+      <webElementGuid>48cdb7b7-8a3f-461f-b684-8935cd5a2906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Font type'])[1]/following::div[5]</value>
+      <webElementGuid>0b2f0644-a50d-4744-8d72-5e55181cb029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other settings'])[1]/preceding::div[2]</value>
+      <webElementGuid>b1871b99-85c0-4861-84fd-1193d6aa2895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide checkbox column'])[1]/preceding::div[5]</value>
+      <webElementGuid>40287317-4cfe-4076-b261-3812f366bb17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div</value>
+      <webElementGuid>a226f539-4b85-45eb-9292-3155f0691a1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

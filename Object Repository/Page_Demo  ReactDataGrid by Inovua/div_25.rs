@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_25</name>
+   <tag></tag>
+   <elementGuidId>23182df4-4f29-47f2-b70c-fe72224c92df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div[5]/div/div/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b28f205-ccf5-4db4-b660-6a7143daff00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inovua-react-toolkit-combo-box__list__item inovua-react-toolkit-combo-box__list__item--ellipsis</value>
+      <webElementGuid>234b2868-58ce-4390-a58e-6f2374ffedba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>ef3d852f-4240-4663-9fe0-c5c7f0effce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--nunito InovuaReactDataGrid--theme-default-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__portal-host&quot;]/div[@class=&quot;inovua-react-toolkit-overlay inovua-react-toolkit-overlay--visible inovua-react-toolkit-overlay--position-fixed&quot;]/div[@class=&quot;inovua-react-toolkit-overlay__content&quot;]/div[@class=&quot;inovua-react-toolkit-combo-box__list inovua-react-toolkit-combo-box__list--theme-default-dark inovua-react-toolkit-combo-box__list--relative-to-viewport inovua-react-toolkit-combo-box__list--position-bottom&quot;]/div[@class=&quot;inovua-react-toolkit-combo-box__list__virtual-list&quot;]/div[@class=&quot;inovua-react-toolkit-combo-box__list__item inovua-react-toolkit-combo-box__list__item--ellipsis&quot;]</value>
+      <webElementGuid>f76abac7-fe8c-427b-8c3f-978b59b95013</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div[5]/div/div/div/div/div[4]</value>
+      <webElementGuid>952053ca-cda1-47d2-9039-b77265a8b2d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::div[9]</value>
+      <webElementGuid>d6787721-a427-4f64-b4d6-7401dab785ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theme settings'])[1]/preceding::div[7]</value>
+      <webElementGuid>0802beb3-320e-4ac2-91f8-de3366f3a666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dark mode'])[1]/preceding::div[10]</value>
+      <webElementGuid>ef8c1578-6d77-4177-90a9-1630e4e50b7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='25']/parent::*</value>
+      <webElementGuid>32c5422a-fe5c-400d-880a-1f3608e2c2fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[4]</value>
+      <webElementGuid>6f806ccf-bf98-484e-a1ce-22a100aa024a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '25' or . = '25')]</value>
+      <webElementGuid>e2194d43-4724-4155-8121-c09029924b51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

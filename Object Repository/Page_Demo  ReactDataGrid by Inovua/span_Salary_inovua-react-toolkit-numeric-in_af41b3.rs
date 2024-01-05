@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Salary_inovua-react-toolkit-numeric-in_af41b3</name>
+   <tag></tag>
+   <elementGuidId>31679eea-8fa2-4363-9e76-7a00eea2ed16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.inovua-react-toolkit-numeric-input__spinner-arrow.inovua-react-toolkit-numeric-input__spinner-arrow--down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div/div/div/div[2]/div/div[7]/div[3]/div/div[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c7f05dc-4a71-419c-b181-ada236da9716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inovua-react-toolkit-numeric-input__spinner-arrow inovua-react-toolkit-numeric-input__spinner-arrow--down</value>
+      <webElementGuid>787011f2-96a5-4aee-84a6-ddf95954e1a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--nunito InovuaReactDataGrid--theme-default-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__body&quot;]/div[@class=&quot;InovuaReactDataGrid__column-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__header-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__header-wrapper InovuaReactDataGrid__header-wrapper--direction-ltr&quot;]/div[@class=&quot;InovuaReactDataGrid__header InovuaReactDataGrid__header--direction-ltr&quot;]/div[@class=&quot;InovuaReactDataGrid__column-header__resize-wrapper InovuaReactDataGrid__column-header__resize-wrapper--has-no-group InovuaReactDataGrid__column-header__resize-wrapper--show-border-left InovuaReactDataGrid__column-header__resize-wrapper--show-border-right InovuaReactDataGrid__column-header__resize-wrapper--direction-ltr InovuaReactDataGrid__column-header__resize-wrapper--last-in-section InovuaReactDataGrid__column-header__resize-wrapper--last&quot;]/div[@class=&quot;InovuaReactDataGrid__column-header__filter-wrapper&quot;]/div[@class=&quot;inovua-react-toolkit-numeric-input inovua-react-toolkit-numeric-input--theme-default-dark inovua-react-toolkit-numeric-input--ltr inovua-react-toolkit-numeric-input--enable-spinner-tools inovua-react-toolkit-numeric-input--enable-clear-button InovuaReactDataGrid__column-header__filter InovuaReactDataGrid__column-header__filter--number&quot;]/div[@class=&quot;inovua-react-toolkit-numeric-input__spinner-wrapper inovua-react-toolkit-numeric-input__spinner-wrapper--ltr&quot;]/span[@class=&quot;inovua-react-toolkit-numeric-input__spinner-arrow inovua-react-toolkit-numeric-input__spinner-arrow--down&quot;]</value>
+      <webElementGuid>c679e13c-c562-4a15-b69f-a5a1e5d5b5ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div/div/div/div[2]/div/div[7]/div[3]/div/div[2]/span[2]</value>
+      <webElementGuid>85804d5f-ed88-49f9-b252-2f66fe3f423d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salary'])[1]/following::span[2]</value>
+      <webElementGuid>66b63dc8-4835-41a2-b2f2-1cf3d773561e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departament'])[1]/following::span[3]</value>
+      <webElementGuid>66a55b6d-eee7-46f5-a472-6750a0dec9b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='H'])[1]/preceding::span[1]</value>
+      <webElementGuid>f66b9f0e-757e-46aa-8a01-be7ed493049c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D'])[1]/preceding::span[1]</value>
+      <webElementGuid>d4bd802c-a32b-4954-8231-06a21b149e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>7ca44b16-c0bf-4253-a6fd-38f43c7ea196</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

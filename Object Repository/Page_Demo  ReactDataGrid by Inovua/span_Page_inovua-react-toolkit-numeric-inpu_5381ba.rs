@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Page_inovua-react-toolkit-numeric-inpu_5381ba</name>
+   <tag></tag>
+   <elementGuidId>679a42cb-255d-4a93-96c5-a72a7e6362e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.inovua-react-toolkit-numeric-input.inovua-react-toolkit-numeric-input--theme-default-dark.inovua-react-toolkit-numeric-input--ltr.inovua-react-toolkit-numeric-input--enable-spinner-tools.inovua-react-pagination-toolbar__current-page > div.inovua-react-toolkit-numeric-input__spinner-wrapper.inovua-react-toolkit-numeric-input__spinner-wrapper--ltr > span.inovua-react-toolkit-numeric-input__spinner-arrow.inovua-react-toolkit-numeric-input__spinner-arrow--down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div/div[2]/div/div/div/div/div/div[2]/div/div[3]/div[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b43ec620-e091-4f77-9cf4-4427a86be7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inovua-react-toolkit-numeric-input__spinner-arrow inovua-react-toolkit-numeric-input__spinner-arrow--down</value>
+      <webElementGuid>181d3ae3-33f6-42bc-b136-9c41b71293bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--nunito InovuaReactDataGrid--theme-default-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__body&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-pagination-toolbar inovua-react-pagination-toolbar--theme-default-dark inovua-react-pagination-toolbar--ltr inovua-react-toolkit-toolbar inovua-react-toolkit-toolbar--theme-default-dark inovua-react-toolkit-toolbar--change-button-styles inovua-react-toolkit-toolbar--arrowScroller inovua-react-toolkit-toolbar inovua-react-toolkit-toolbar--direction-horizontal inovua-react-toolkit-toolbar--native-scroll inovua-react-toolkit-toolbar--theme-default-dark inovua-react-toolkit-flex-v3--align-items-start inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-flex&quot;]/div[@class=&quot;inovua-react-toolkit-toolbar__scroll-container inovua-react-scroll-container--block inovua-react-scroll-container inovua-react-scroll-container--theme-default-dark&quot;]/div[@class=&quot;inovua-react-scroll-container__wrapper&quot;]/div[@class=&quot;inovua-react-scroll-container__scroller inovua-react-scroll-container__scroller--direction-ltr inovua-react-scroll-container__scroller--avoid-repaint&quot;]/div[@class=&quot;inovua-react-scroll-container__view&quot;]/div[1]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-toolbar__inner-wrapper inovua-react-toolkit-toolbar__inner-wrapper--direction-row inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-flex&quot;]/div[@class=&quot;inovua-react-pagination-toolbar__region&quot;]/div[@class=&quot;inovua-react-toolkit-numeric-input inovua-react-toolkit-numeric-input--theme-default-dark inovua-react-toolkit-numeric-input--ltr inovua-react-toolkit-numeric-input--enable-spinner-tools inovua-react-pagination-toolbar__current-page&quot;]/div[@class=&quot;inovua-react-toolkit-numeric-input__spinner-wrapper inovua-react-toolkit-numeric-input__spinner-wrapper--ltr&quot;]/span[@class=&quot;inovua-react-toolkit-numeric-input__spinner-arrow inovua-react-toolkit-numeric-input__spinner-arrow--down&quot;]</value>
+      <webElementGuid>5ff4f8b5-b7cb-46d8-b5a9-3df4989902cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div/div[2]/div/div/div/div/div/div[2]/div/div[3]/div[2]/span[2]</value>
+      <webElementGuid>bf376fdd-39f6-4bba-b488-ee67821e118e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[1]/following::span[2]</value>
+      <webElementGuid>d7117cd7-23bf-4949-9e8b-7d3ba6f78311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results per page'])[1]/preceding::span[2]</value>
+      <webElementGuid>f6215313-2b44-4130-81e5-468d5767a6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/span[2]</value>
+      <webElementGuid>54763603-6451-4a2f-8c9a-c38753598594</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

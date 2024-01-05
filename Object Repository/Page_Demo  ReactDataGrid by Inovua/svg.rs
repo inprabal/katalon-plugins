@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>e35ebfa8-2302-4f89-a041-f612f548656b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.datagrid-demo-avatar.datagrid-demo-avatar__header-pic > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag header to group'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f4596b2b-b58f-4284-98f7-70f20f87942e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>2c0d8938-1c3d-4961-84b0-f04ef278cc92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>82ac56b4-10ff-44c6-b8b3-b8b66d04d405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 16</value>
+      <webElementGuid>dfb0dbea-535d-41ec-8e9c-8392a47c01b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>31220d04-fd8d-4910-9d52-e0db26e734ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-amber-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--roboto InovuaReactDataGrid--theme-amber-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__body&quot;]/div[@class=&quot;InovuaReactDataGrid__column-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__header-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__header-wrapper InovuaReactDataGrid__header-wrapper--direction-ltr&quot;]/div[@class=&quot;InovuaReactDataGrid__header InovuaReactDataGrid__header--direction-ltr&quot;]/div[@class=&quot;InovuaReactDataGrid__column-header__resize-wrapper InovuaReactDataGrid__column-header__resize-wrapper--has-no-group InovuaReactDataGrid__column-header__resize-wrapper--show-border-left InovuaReactDataGrid__column-header__resize-wrapper--direction-ltr&quot;]/div[@class=&quot;datagrid-demo__avatar-column InovuaReactDataGrid__column-header InovuaReactDataGrid__column-header--unlocked InovuaReactDataGrid__column-header--direction-ltr InovuaReactDataGrid__column-header--vertical-align-middle InovuaReactDataGrid__column-header--unlocked InovuaReactDataGrid__column-header--user-select-none InovuaReactDataGrid__column-header--align-center InovuaReactDataGrid__column-header--has-no-group InovuaReactDataGrid__column-header--unresizable InovuaReactDataGrid__column-header--unlockable&quot;]/div[@class=&quot;InovuaReactDataGrid__column-header__content InovuaReactDataGrid__box--ellipsis&quot;]/div[@class=&quot;datagrid-demo-avatar datagrid-demo-avatar__header-pic&quot;]/svg[1]</value>
+      <webElementGuid>1669abe1-ba68-439c-9f4b-3f7fca6116c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag header to group'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>7ca51f2b-8e51-4d8e-88f7-c08554145482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Github'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>09a0abf4-d131-4541-9f42-32fe9d0bff93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f4832f86-8661-486f-adbe-d4120db1508b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal info'])[1]/preceding::*[name()='svg'][6]</value>
+      <webElementGuid>d7c40168-372b-424a-85a9-2059cc61c8cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kaleena Swapp</name>
+   <tag></tag>
+   <elementGuidId>8c0933dd-3cce-4643-b6c6-5357f68b924a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6720cc8a-a8fd-48ee-b7ff-9374a80515f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>InovuaReactDataGrid__cell InovuaReactDataGrid__cell--unlocked InovuaReactDataGrid__cell--direction-ltr InovuaReactDataGrid__cell--user-select-none InovuaReactDataGrid__cell--show-border-left InovuaReactDataGrid__cell--show-border-bottom</value>
+      <webElementGuid>bffa9dfe-b2f0-4582-bb34-bca818b08855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-props-id</name>
+      <type>Main</type>
+      <value>firstName</value>
+      <webElementGuid>234ad124-d143-4c97-97a2-9871bc7e832d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state-props-id</name>
+      <type>Main</type>
+      <value>firstName</value>
+      <webElementGuid>a2fffc15-7734-486d-8cf3-e34809fda5ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kaleena Swapp</value>
+      <webElementGuid>0e4354fb-3ab8-4760-8720-17dcc8c82b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-amber-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--roboto InovuaReactDataGrid--theme-amber-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__body&quot;]/div[@class=&quot;InovuaReactDataGrid__column-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__virtual-list inovua-react-virtual-list inovua-react-virtual-list--theme-amber-dark inovua-react-virtual-list--virtual-scroll inovua-react-scroll-container--block inovua-react-scroll-container inovua-react-scroll-container--theme-amber-dark&quot;]/div[@class=&quot;inovua-react-scroll-container__wrapper&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;inovua-react-virtual-list__view-container&quot;]/div[@class=&quot;inovua-react-virtual-list__row-container&quot;]/div[@class=&quot;InovuaReactDataGrid__row InovuaReactDataGrid__row--direction-ltr InovuaReactDataGrid__row--even InovuaReactDataGrid__row--no-locked-start InovuaReactDataGrid__row--no-locked-end InovuaReactDataGrid__row--show-horizontal-borders InovuaReactDataGrid__row--rowheight&quot;]/div[@class=&quot;InovuaReactDataGrid__row-cell-wrap InovuaReactDataGrid__row-hover-target&quot;]/div[@class=&quot;InovuaReactDataGrid__cell InovuaReactDataGrid__cell--unlocked InovuaReactDataGrid__cell--direction-ltr InovuaReactDataGrid__cell--user-select-none InovuaReactDataGrid__cell--show-border-left InovuaReactDataGrid__cell--show-border-bottom&quot;]</value>
+      <webElementGuid>66c79892-db13-4902-a378-decc136acbd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>158a8927-5182-45de-a0c1-b13da49fe0a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::div[1]</value>
+      <webElementGuid>6daed9ad-59a7-455b-af23-a8663259a2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/following::div[2]</value>
+      <webElementGuid>85fb39dc-7187-41c7-8b72-532b9acb09ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kaleena.swapp@mycat.com'])[1]/preceding::div[2]</value>
+      <webElementGuid>885bc754-d27d-4467-a8fd-5f82cf61cbbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>ba11cf84-8117-492f-b8c3-55a9284e5639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kaleena Swapp' or . = 'Kaleena Swapp')]</value>
+      <webElementGuid>bbc51f6b-3f93-403a-bac8-5ac4caf445d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

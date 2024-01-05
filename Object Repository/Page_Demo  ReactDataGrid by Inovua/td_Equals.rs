@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Equals</name>
+   <tag></tag>
+   <elementGuidId>cc8c0ddc-814e-44fa-990a-b95f7da14997</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div[5]/div/div/div/div/div/div/div[2]/table/tbody/tr[3]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a9f80acb-4af2-4408-9ec0-77b447d86afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inovua-react-toolkit-menu__cell inovua-react-toolkit-menu__cell--ltr</value>
+      <webElementGuid>00984747-7672-4b53-afbd-35472d90603a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Equals</value>
+      <webElementGuid>74bfca05-7477-4e62-b14b-db3cee272d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-amber-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--roboto InovuaReactDataGrid--theme-amber-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;inovua-react-toolkit-menu inovua-react-toolkit-menu--theme-amber-dark inovua-react-toolkit-menu--ltr inovua-react-toolkit-menu--depth-0 inovua-react-toolkit-menu--has-overflow inovua-react-toolkit-menu--shadow inovua-react-toolkit-menu--has-scroll&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-menu__scroll-container inovua-react-toolkit-arrow-scroller inovua-react-toolkit-arrow-scroller--direction-vertical inovua-react-toolkit-arrow-scroller--native-scroll inovua-react-toolkit-arrow-scroller--theme-amber-dark inovua-react-toolkit-flex-v3--align-items-start inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-flex&quot;]/div[@class=&quot;inovua-react-toolkit-arrow-scroller__scroll-container inovua-react-scroll-container--block inovua-react-scroll-container inovua-react-scroll-container--theme-amber-dark&quot;]/div[@class=&quot;inovua-react-scroll-container__wrapper&quot;]/div[@class=&quot;inovua-react-scroll-container__scroller inovua-react-scroll-container__scroller--direction-ltr inovua-react-scroll-container__scroller--avoid-repaint&quot;]/div[@class=&quot;inovua-react-scroll-container__view&quot;]/div[1]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-arrow-scroller__inner-wrapper inovua-react-toolkit-arrow-scroller__inner-wrapper--direction-column inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-flex&quot;]/table[@class=&quot;inovua-react-toolkit-menu__table&quot;]/tbody[1]/tr[@class=&quot;inovua-react-toolkit-menu__row inovua-react-toolkit-menu__row--over&quot;]/td[@class=&quot;inovua-react-toolkit-menu__cell inovua-react-toolkit-menu__cell--ltr&quot;]</value>
+      <webElementGuid>8e70f946-3afe-4e00-8b5d-c4bfb3c35421</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div[5]/div/div/div/div/div/div/div[2]/table/tbody/tr[3]/td[2]</value>
+      <webElementGuid>f71ec61d-6a46-4583-af57-88e49a100dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Does not contain'])[1]/following::td[2]</value>
+      <webElementGuid>675a7de9-ecac-4e22-9add-d23b4d4ff5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contains'])[1]/following::td[4]</value>
+      <webElementGuid>8c9d8d32-e971-41b9-b4ff-3e5af31b8b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Does not equal'])[1]/preceding::td[2]</value>
+      <webElementGuid>e75971b7-1aee-4818-af39-1a1dd0dc2803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empty'])[1]/preceding::td[4]</value>
+      <webElementGuid>07969cff-3de2-41b4-864b-3730b83d07e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Equals']/parent::*</value>
+      <webElementGuid>27fac5d9-6725-48dc-999b-4fd561555b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]</value>
+      <webElementGuid>67946876-e6f5-4164-9da7-b9083ad1c4a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Equals' or . = 'Equals')]</value>
+      <webElementGuid>d0684481-bd8e-448c-9227-c63bdd4f9baf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

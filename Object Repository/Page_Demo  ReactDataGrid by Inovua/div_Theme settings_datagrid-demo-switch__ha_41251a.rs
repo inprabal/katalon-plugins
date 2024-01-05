@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Theme settings_datagrid-demo-switch__ha_41251a</name>
+   <tag></tag>
+   <elementGuidId>0067c54d-20ce-4239-bceb-028181502f05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.datagrid-demo-switch__handle.datagrid-demo-switch__handle--on</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b33e8bcf-d7ab-4730-820a-ad59b0e0f2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datagrid-demo-switch__handle datagrid-demo-switch__handle--on</value>
+      <webElementGuid>5c4cfda6-51e1-45b0-8d13-d9b7ff98ba51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;datagrid-demo-configurator__wrapper datagrid-demo-configurator--theme-default-dark&quot;]/div[@class=&quot;inovua-react-scroll-container--block inovua-react-scroll-container inovua-react-scroll-container--theme-default-dark&quot;]/div[@class=&quot;inovua-react-scroll-container__wrapper&quot;]/div[@class=&quot;inovua-react-scroll-container__scroller inovua-react-scroll-container__scroller--direction-ltr inovua-react-scroll-container__scroller--avoid-repaint&quot;]/div[@class=&quot;inovua-react-scroll-container__view&quot;]/div[1]/div[1]/div[@class=&quot;datagrid-demo-section__wrapper datagrid-demo-section--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo-section__content&quot;]/div[1]/div[@class=&quot;datagrid-demo-switch datagrid-demo-switch--theme-default-dark datagrid-demo-switch--focused&quot;]/div[@class=&quot;datagrid-demo-switch__track datagrid-demo-switch__track--on&quot;]/div[@class=&quot;datagrid-demo-switch__handle datagrid-demo-switch__handle--on&quot;]</value>
+      <webElementGuid>2e3debe8-dc5c-42be-9d8a-2855c3098552</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>cdd7a27a-0bf9-42d0-ab2f-2d9264615e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>cdf4db26-f170-4d12-8d40-f87caed7569c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

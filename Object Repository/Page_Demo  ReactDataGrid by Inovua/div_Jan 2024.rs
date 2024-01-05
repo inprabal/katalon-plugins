@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jan 2024</name>
+   <tag></tag>
+   <elementGuidId>719b1f77-15ae-4056-9693-c36dd0e55024</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.inovua-react-toolkit-flex-item.inovua-react-toolkit-calendar__nav-bar-date.inovua-react-toolkit-flex-v3--flex-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div[5]/div/div/div/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ce8a6116-39ec-4aa9-8af7-956b861c7dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inovua-react-toolkit-flex-item inovua-react-toolkit-calendar__nav-bar-date inovua-react-toolkit-flex-v3--flex-1</value>
+      <webElementGuid>b253fce6-afe6-46bb-bd81-d0dde8107ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jan 2024</value>
+      <webElementGuid>3f09a624-fe83-4d72-86fb-e1c578b51548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-default-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--nunito InovuaReactDataGrid--theme-default-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__portal-host&quot;]/div[@class=&quot;inovua-react-toolkit-date-input__overlay inovua-react-toolkit-date-input__overlay--visible inovua-react-toolkit-date-input__overlay--position-fixed&quot;]/div[@class=&quot;inovua-react-toolkit-date-input__overlay__content&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-date-input__picker inovua-react-toolkit-calendar__calendar inovua-react-toolkit-calendar__calendar--theme-default-dark inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__month-view inovua-react-toolkit-calendar__month-view--theme-default-dark inovua-react-toolkit-calendar__month-view-relative inovua-react-toolkit-calendar__month-view inovua-react-toolkit-flex-v3--align-items-stretch inovua-react-toolkit-flex-v3--column inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-flex-v3--align-items-stretch inovua-react-toolkit-flex-v3--column inovua-react-toolkit-flex-v3--display-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex inovua-react-toolkit-calendar__nav-bar inovua-react-toolkit-calendar__nav-bar--theme-default-dark inovua-react-toolkit-calendar__nav-bar--with-month-decade-view inovua-react-toolkit-flex-v3--align-items-center inovua-react-toolkit-flex-v3--wrap inovua-react-toolkit-flex-v3--row inovua-react-toolkit-flex-v3--display-inline-flex&quot;]/div[@class=&quot;inovua-react-toolkit-flex-item inovua-react-toolkit-calendar__nav-bar-date inovua-react-toolkit-flex-v3--flex-1&quot;]</value>
+      <webElementGuid>e9220459-3cbd-4b65-bcc9-e8031b0adcd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div[5]/div/div/div/div/div/div/div[3]</value>
+      <webElementGuid>b77ec107-c0ce-4e56-a6ef-457eb4e7581c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div[3]</value>
+      <webElementGuid>e30ccd40-2589-46a8-919b-0ecc61030c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jan 2024' or . = 'Jan 2024')]</value>
+      <webElementGuid>0668ef97-4b08-4e1a-8cac-0213ba463dcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

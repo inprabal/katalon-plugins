@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email_InovuaReactDataGrid__column-heade_26b77b</name>
+   <tag></tag>
+   <elementGuidId>4c3c15e8-0047-40a2-baf5-5312d7df0063</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.InovuaReactDataGrid__column-header__menu-tool.InovuaReactDataGrid__column-header__menu-tool--show-on-hover.InovuaReactDataGrid__column-header__menu-tool--visible.InovuaReactDataGrid__column-header__menu-tool--direction-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div/div/div/div[2]/div/div[4]/div[3]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>338d3193-110d-409a-a32c-c2b9dd2dc946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>InovuaReactDataGrid__column-header__menu-tool InovuaReactDataGrid__column-header__menu-tool--show-on-hover InovuaReactDataGrid__column-header__menu-tool--visible InovuaReactDataGrid__column-header__menu-tool--direction-ltr</value>
+      <webElementGuid>5a309354-7fe6-457e-9682-11644f990364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;datagrid-demo__app datagrid-demo__app--theme-amber-dark&quot;]/div[@class=&quot;datagrid-demo__app-content&quot;]/div[@class=&quot;InovuaReactDataGrid datagrid-demo__grid datagrid-demo__grid__font-family--roboto InovuaReactDataGrid--theme-amber-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--show-header-border-right InovuaReactDataGrid--show-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__body&quot;]/div[@class=&quot;InovuaReactDataGrid__column-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__header-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__header-wrapper InovuaReactDataGrid__header-wrapper--direction-ltr&quot;]/div[@class=&quot;InovuaReactDataGrid__header InovuaReactDataGrid__header--direction-ltr&quot;]/div[@class=&quot;InovuaReactDataGrid__header-group&quot;]/div[@class=&quot;InovuaReactDataGrid__header-group-cells&quot;]/div[@class=&quot;InovuaReactDataGrid__column-header__resize-wrapper InovuaReactDataGrid__column-header__resize-wrapper--has-group InovuaReactDataGrid__column-header__resize-wrapper--show-border-left InovuaReactDataGrid__column-header__resize-wrapper--direction-ltr&quot;]/div[@class=&quot;InovuaReactDataGrid__column-header InovuaReactDataGrid__column-header--unlocked InovuaReactDataGrid__column-header--direction-ltr InovuaReactDataGrid__column-header--unlocked InovuaReactDataGrid__column-header--sortable InovuaReactDataGrid__column-header--user-select-none InovuaReactDataGrid__column-header--align-start InovuaReactDataGrid__column-header--has-group InovuaReactDataGrid__column-header--resizable InovuaReactDataGrid__column-header--unlockable&quot;]/div[@class=&quot;InovuaReactDataGrid__column-header__menu-tool InovuaReactDataGrid__column-header__menu-tool--show-on-hover InovuaReactDataGrid__column-header__menu-tool--visible InovuaReactDataGrid__column-header__menu-tool--direction-ltr&quot;]</value>
+      <webElementGuid>731dc967-e1ac-492d-b1a8-1b689b2305ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div/div/div/div[2]/div/div[4]/div[3]/div/div/div[2]</value>
+      <webElementGuid>2181d415-853a-4f02-814c-6230bff119b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[1]</value>
+      <webElementGuid>ccb29e2f-b852-4e52-b662-a84e5cb24fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal info'])[1]/following::div[6]</value>
+      <webElementGuid>9d374d10-2ca7-4c53-aa1f-6a7410542705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/preceding::div[7]</value>
+      <webElementGuid>8509a56b-3bd7-459a-b364-f569a3fdaaaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of birth'])[1]/preceding::div[18]</value>
+      <webElementGuid>735329d0-0b92-487f-bb30-14677bc0fd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/div/div[2]</value>
+      <webElementGuid>8d89e93f-8afd-478c-a01d-5d2802042abc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
