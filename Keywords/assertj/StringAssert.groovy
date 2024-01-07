@@ -1,4 +1,4 @@
-package pb.assertj
+package assertj
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
@@ -56,9 +56,9 @@ class StringAssert {
 		if(actual instanceof TestObject) {
 			actualStr= WebUI.getText(actual, FailureHandling.STOP_ON_FAILURE);
 		}
-
+  
 		try {
- 
+
 			switch (operator) {
 				case StringOperator.IS_EQUAL:
 					assertThat(actualStr).as(description, stringSubsitutor.toArray(new String[0])).isEqualTo(expected)

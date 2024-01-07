@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Billy_InovuaReactDataGrid__cell__content</name>
+   <tag></tag>
+   <elementGuidId>40950141-2884-4ed3-918c-5070ad3d7b35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.InovuaReactDataGrid__row.InovuaReactDataGrid__row--direction-ltr.InovuaReactDataGrid__row--even.InovuaReactDataGrid__row--no-locked-start.InovuaReactDataGrid__row--no-locked-end.InovuaReactDataGrid__row--show-horizontal-borders.InovuaReactDataGrid__row--rowheight.InovuaReactDataGrid__row--last > div.InovuaReactDataGrid__row-cell-wrap.InovuaReactDataGrid__row-hover-target > div.InovuaReactDataGrid__cell.InovuaReactDataGrid__cell--unlocked.InovuaReactDataGrid__cell--direction-ltr.InovuaReactDataGrid__cell--user-select-none.InovuaReactDataGrid__cell--show-border-left.InovuaReactDataGrid__cell--show-border-bottom > div.InovuaReactDataGrid__cell__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[2]/div[3]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a1499a18-94ef-4ca1-97e9-7c902379098f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>InovuaReactDataGrid__cell__content</value>
+      <webElementGuid>088cca64-6d54-4017-8083-2b6eb6eb26ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;src_app__5iKs1 flex flex-column db-l&quot;]/div[@class=&quot;Body_body__p3UjE w-100 mw9 center flex flex-row flex-nowrap&quot;]/div[@class=&quot;Body_container__v6RKk flex-auto&quot;]/div[@class=&quot;global-docs-page mt3 DocsPage_docsPage__OHSpF&quot;]/div[@class=&quot;DocsPage_section__6emcd&quot;]/div[@class=&quot;section-body DocsPage_sectionBody__bJlHx&quot;]/div[@class=&quot;global-snippet Snippet_snippet__VJv3a&quot;]/div[@class=&quot;PreviewResult_preview__bKw4P global-preview-result&quot;]/div[1]/div[@class=&quot;InovuaReactDataGrid InovuaReactDataGrid--theme-default-dark InovuaReactDataGrid--columns-ready InovuaReactDataGrid--zebra-rows InovuaReactDataGrid--filterable InovuaReactDataGrid--focused InovuaReactDataGrid--show-hover-rows InovuaReactDataGrid--direction-ltr InovuaReactDataGrid--no-header-border-right InovuaReactDataGrid--cell-borders-horizontal InovuaReactDataGrid--cell-borders-vertical&quot;]/div[@class=&quot;InovuaReactDataGrid__body&quot;]/div[@class=&quot;InovuaReactDataGrid__column-layout&quot;]/div[@class=&quot;InovuaReactDataGrid__virtual-list inovua-react-virtual-list inovua-react-virtual-list--theme-default-dark inovua-react-virtual-list--virtual-scroll inovua-react-scroll-container--block inovua-react-scroll-container inovua-react-scroll-container--theme-default-dark&quot;]/div[@class=&quot;inovua-react-scroll-container__wrapper&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;inovua-react-virtual-list__view-container&quot;]/div[@class=&quot;inovua-react-virtual-list__row-container&quot;]/div[@class=&quot;InovuaReactDataGrid__row InovuaReactDataGrid__row--direction-ltr InovuaReactDataGrid__row--even InovuaReactDataGrid__row--no-locked-start InovuaReactDataGrid__row--no-locked-end InovuaReactDataGrid__row--show-horizontal-borders InovuaReactDataGrid__row--rowheight InovuaReactDataGrid__row--last&quot;]/div[@class=&quot;InovuaReactDataGrid__row-cell-wrap InovuaReactDataGrid__row-hover-target&quot;]/div[@class=&quot;InovuaReactDataGrid__cell InovuaReactDataGrid__cell--unlocked InovuaReactDataGrid__cell--direction-ltr InovuaReactDataGrid__cell--user-select-none InovuaReactDataGrid__cell--show-border-left InovuaReactDataGrid__cell--show-border-bottom&quot;]/div[@class=&quot;InovuaReactDataGrid__cell__content&quot;]</value>
+      <webElementGuid>bf7ee5c3-2ae2-49c1-a9dc-84ff29d8b775</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div[3]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>58198252-8838-47c4-bfe8-fcf4bc6a3ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billy'])[1]/following::div[2]</value>
+      <webElementGuid>7de410b9-f637-4217-88ad-4abbce4913fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vancouver'])[1]/following::div[8]</value>
+      <webElementGuid>3f72d491-9059-44a7-b33b-0e183973ab9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edmonton'])[1]/preceding::div[2]</value>
+      <webElementGuid>45841ade-02f3-4fec-bd5a-24e7b730fa95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/preceding::div[23]</value>
+      <webElementGuid>e9926db4-5b97-49fd-9af3-082423f829c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>c5cd2197-236a-4e15-8339-615f1758d98a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
