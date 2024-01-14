@@ -1,18 +1,18 @@
 {
-  "keywordFileContentHash": "B04E5C3ED798056E73FD0C0D41B2E4D5",
+  "keywordFileContentHash": "D665C6E2414D9CFC6D74ABBF38E69298",
   "keywordClasses": [
     {
-      "name": "assertj.StringAssert",
+      "name": "assertj.DateAssert",
       "keywordMethods": [
         {
-          "name": "stringAssert",
+          "name": "dateAssert",
           "parameters": [
             {
               "name": "operator",
               "initialExpression": "",
               "type": {
-                "fullClassName": "assertj.StringOperator",
-                "unresolvedClassName": "StringOperator",
+                "fullClassName": "assertj.DateOperator",
+                "unresolvedClassName": "DateOperator",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,
                 "hasImmutableClassName": false,
@@ -37,8 +37,21 @@
               "name": "expected",
               "initialExpression": "",
               "type": {
-                "fullClassName": "java.util.List",
-                "unresolvedClassName": "List",
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "pattern",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,
                 "hasImmutableClassName": false,
@@ -85,11 +98,10 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

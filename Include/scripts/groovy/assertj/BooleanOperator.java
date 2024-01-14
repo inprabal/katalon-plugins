@@ -5,10 +5,8 @@ import java.util.List;
 
 public enum BooleanOperator {
 	
-	IS_EQUAL, 
-	IS_NOT_EQUAL, 
-	CONTAINS, 
-	NOT_CONTAINS;
+	IS_TRUE, 
+	IS_FALSE;
 
 	public static String[] valueString() {
 		List<String> valueStrings = new ArrayList<String>();

@@ -1,3 +1,7 @@
 {
-	"keywords": ["pb.assertj.StringAssert"]
+	"keywords": [
+		"pb.assertj.StringAssert",
+		"pb.assertj.DateAssert",
+		"pb.assertj.NumberAssert"
+	]
 }

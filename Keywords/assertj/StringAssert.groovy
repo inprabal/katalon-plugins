@@ -27,7 +27,10 @@ import org.openqa.selenium.WebDriver
 import static org.assertj.core.api.Assertions.assertThat
 
 import org.apache.commons.lang.exception.ExceptionUtils
+import org.assertj.core.api.AbstractAssert
+import org.assertj.core.api.AbstractStringAssert
 import org.assertj.core.api.Assertions
+import org.assertj.core.api.Descriptable
 import org.assertj.core.error.AssertionErrorMessagesAggregator
 import org.openqa.selenium.By
 
@@ -49,28 +52,28 @@ import com.kms.katalon.core.webui.exception.WebElementNotFoundException
 class StringAssert {
 
 	@Keyword
-	def assertThat(StringOperator operator,Object actual,String expected,String description, List stringSubsitutor, FailureHandling flowcontrol) {
+	def stringAssert(StringOperator operator,Object actual,List expected,String description, List stringSubsitutor, FailureHandling flowcontrol) {
 
 		String actualStr= actual.toString();
 
 		if(actual instanceof TestObject) {
 			actualStr= WebUI.getText(actual, FailureHandling.STOP_ON_FAILURE);
 		}
-  
+
 		try {
 
 			switch (operator) {
 				case StringOperator.IS_EQUAL:
-					assertThat(actualStr).as(description, stringSubsitutor.toArray(new String[0])).isEqualTo(expected)
+					assertThat(actualStr).as(description, stringSubsitutor.toArray(new String[0])).isEqualTo(expected.get(0))
 					break;
 				case StringOperator.IS_NOT_EQUAL:
 					assertThat(actualStr).as(description, stringSubsitutor.toArray(new String[0])).isNotEqualTo(expected)
 					break;
 				case StringOperator.CONTAINS:
-					assertThat(actualStr).as(description, stringSubsitutor.toArray(new String[0])).isIn(expected)
+					(Descriptable)((AbstractAssert)assertThat(actualStr).isIn(expected)).as(description, stringSubsitutor.toArray(new String[0]))
 					break;
 				case StringOperator.NOT_CONTAINS:
-					assertThat(actualStr).as(description, stringSubsitutor.toArray(new String[0])).isNotIn(expected)
+					(Descriptable)((AbstractAssert)assertThat(actualStr).isNotIn(expected)).as(description, stringSubsitutor.toArray(new String[0]))
 					break;
 				default:
 					throw new AssertionError("No String Operator seelected");

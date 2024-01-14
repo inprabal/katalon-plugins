@@ -4,12 +4,11 @@
 
 Katalon 8x with jdk11+ use **build_katalon_8x.gradle**   
 
-		gradle -b build_katalon_8x.gradle katalonCopyDependencies   
+		gradle -Pkatalon8 katalonCopyDependencies   
 
 Katalon 9x with jdk11+ use **build_katalon_9x.gradle** 
 
-		gradle -b build_katalon_9x.gradle katalonCopyDependencies    
-		
-## Katalon Copy dependencies ##  
-
-gradle katalonCopyDependencies  
+		gradle katalonCopyDependencies    
+	
+To packege plugins:   
+        gradle katalonPluginPackage	

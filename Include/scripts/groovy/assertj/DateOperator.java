@@ -5,11 +5,13 @@ import java.util.List;
 
 public enum DateOperator {
 	
-	IS_EQUAL, 
+	IS_AFTER, 
+	IS_AFTER_EQUALS,
+	IS_BEFORE, 
+	IS_BEFORE_EQUALS,
 	IS_NOT_EQUAL, 
-	CONTAINS, 
-	NOT_CONTAINS;
-
+	IS_EQUAL;
+ 
 	public static String[] valueString() {
 		List<String> valueStrings = new ArrayList<String>();
 		for (DateOperator operator : values()) {

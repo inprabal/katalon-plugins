@@ -1,18 +1,18 @@
 {
-  "keywordFileContentHash": "B04E5C3ED798056E73FD0C0D41B2E4D5",
+  "keywordFileContentHash": "359DE483ED8A52E09BC51351259357DC",
   "keywordClasses": [
     {
-      "name": "assertj.StringAssert",
+      "name": "assertj.NumberAssert",
       "keywordMethods": [
         {
-          "name": "stringAssert",
+          "name": "numberAssert",
           "parameters": [
             {
               "name": "operator",
               "initialExpression": "",
               "type": {
-                "fullClassName": "assertj.StringOperator",
-                "unresolvedClassName": "StringOperator",
+                "fullClassName": "assertj.NumberOperator",
+                "unresolvedClassName": "NumberOperator",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,
                 "hasImmutableClassName": false,
@@ -37,8 +37,8 @@
               "name": "expected",
               "initialExpression": "",
               "type": {
-                "fullClassName": "java.util.List",
-                "unresolvedClassName": "List",
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,
                 "hasImmutableClassName": false,
@@ -85,11 +85,10 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

@@ -7,8 +7,10 @@ public enum NumberOperator {
 	
 	IS_EQUAL, 
 	IS_NOT_EQUAL, 
-	CONTAINS, 
-	NOT_CONTAINS;
+	IS_GREATER, 
+	IS_GREATER_OR_EQUAL, 
+	IS_LESS, 
+	IS_LESS_OR_EQUAL;
 
 	public static String[] valueString() {
 		List<String> valueStrings = new ArrayList<String>();
